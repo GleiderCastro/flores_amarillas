@@ -40,12 +40,12 @@ body {
 
 }
 .titulo {
-  margin-bottom: 180px;
+  margin-bottom: 500px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: white;
   position: absolute;
   font-weight: bold;
-  letter-spacing: 10px;
+  letter-spacing: 15px;
   opacity: 55;
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
